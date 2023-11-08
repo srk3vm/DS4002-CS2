@@ -18,7 +18,6 @@
 | Notebook Name | Decription |
 | -------- | -------- |
 | transfer_learning.ipynb | This notebook contains all code used for the completion of the project. This includes data cleaning, creating the dataset, transfer learning with MobileNetV2, and fine tuning the model. |
-| P2-Visualizations.rmd | This notebook cleans code for creating visualizations to view the general distribution of the data |
 
 ### Usage
 - To use this model, first unpickle it. Then call the sklearn method predict(data) to get predictions.
