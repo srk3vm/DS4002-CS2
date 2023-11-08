@@ -1,6 +1,12 @@
 # DS4002-CS2
 
 ## Table of Contents
+Hook Document
+
+Rubric
+
+Various Materials
+
 - SRC:
   - This folder contains all of the source code for our project. This folder contains all code used to load and combine the image data as well as structure the final model for training.
 - DATA:
