@@ -2,7 +2,7 @@
 
 ## Table of Contents
 **Hook Document**
-
+- Link to Document: https://docs.google.com/document/d/1GmsvIRSqqhp4ce9Q6sBaSj5Hig9wb_g2pFEXYYaSpXY/edit?usp=sharing
 **Rubric**
 
 **Various Materials**
