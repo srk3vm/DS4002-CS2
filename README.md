@@ -1,12 +1,11 @@
 # DS4002-CS2
 
 ## Table of Contents
-**Hook Document**
-- Link to Document: https://docs.google.com/document/d/1GmsvIRSqqhp4ce9Q6sBaSj5Hig9wb_g2pFEXYYaSpXY/edit?usp=sharing
+**1. Hook Document**
 
-**Rubric**
+**2. Rubric**
 
-**Various Materials**
+**3. Various Materials**
 
 - SRC:
   - This folder contains all of the source code for our project. This folder contains all code used to load and combine the image data as well as structure the final model for training.
@@ -14,9 +13,12 @@
   - This folder is where we store all datasets being used for this project. Specifically it has three subfolders that contain all image data for the respective kind of tumor that the image displays (benign, malignant, or normal). Within each of these folders, the images are further divided into two folders titled "full" or "masked" based on the image type.
 - Figures:
   -  This folder contains exploratory plots looking into the distribution of data between the three types of tumors. It also contains a confusion matrix displaying the results of our model.
+
 ## Hook Document
+- Link to Document: https://docs.google.com/document/d/1GmsvIRSqqhp4ce9Q6sBaSj5Hig9wb_g2pFEXYYaSpXY/edit?usp=sharing
 
 ## Rubric
+- Link to Rubric: https://docs.google.com/document/d/1u9jtmI0qhVIF2E45JgMPDHbCnlXABrwEiZHp5QPYpuk/edit?usp=sharing
 
 ## SRC
 ### Installing/ Building our code
