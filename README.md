@@ -22,7 +22,7 @@
 - Link to Rubric: https://docs.google.com/document/d/1u9jtmI0qhVIF2E45JgMPDHbCnlXABrwEiZHp5QPYpuk/edit?usp=sharing
 
 ## Articles
-- ![Article 1](Articles/Background_on_Ultrasound_Dataset.pdf)
+- ![Background on Dataset of Breast Ultrasound Images](Articles/Background_on_Ultrasound_Dataset.pdf)
 
 ## SRC
 ### Installing/ Building our code
