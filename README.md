@@ -6,8 +6,8 @@
 **2. Rubric**
 
 **3. Various Materials**
-- Relevant Articles:
-  - These articles are included to provide context and information around the case study topic.
+- Articles:
+  - This folder contains two articles that are included to provide context and information around the case study topic.
 - SRC:
   - This folder contains all of the source code for our project. This folder contains all code used to load and combine the image data as well as structure the final model for training.
 - DATA:
