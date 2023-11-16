@@ -1,4 +1,6 @@
-# DS4002-CS2
+# DS4002- Crafting the Future of Breast Cancer Diagnosis through Machine Learning in Ultrasound Imaging (CS2)
+
+All data, information, and resources needed to complete this case study can be found within this repository. Please refer to the linked "Hook Document" and Rubric throughout the assignment to make sure you are on task and following all guidelines. Good luck and have fun!
 
 ## Table of Contents
 **1. Hook Document**
