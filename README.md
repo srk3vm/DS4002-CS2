@@ -22,7 +22,7 @@
 - Link to Rubric: https://docs.google.com/document/d/1u9jtmI0qhVIF2E45JgMPDHbCnlXABrwEiZHp5QPYpuk/edit?usp=sharing
 
 ## Articles
-- 
+- [embed]file:///C:/Users/Student/OneDrive/Desktop/Background%20on%20Ultrasound%20Dataset.pdf[/embed]
 
 ## SRC
 ### Installing/ Building our code
