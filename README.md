@@ -6,19 +6,22 @@
 **2. Rubric**
 
 **3. Various Materials**
-
+- Articles
 - SRC:
   - This folder contains all of the source code for our project. This folder contains all code used to load and combine the image data as well as structure the final model for training.
 - DATA:
   - This folder is where we store all datasets being used for this project. Specifically it has three subfolders that contain all image data for the respective kind of tumor that the image displays (benign, malignant, or normal). Within each of these folders, the images are further divided into two folders titled "full" or "masked" based on the image type.
 - Figures:
-  -  This folder contains exploratory plots looking into the distribution of data between the three types of tumors. It also contains a confusion matrix displaying the results of our model.
+  -  This folder contains exploratory plots looking into the distribution of data between the three types of tumors. This folder should be populated with any additional exploratory or result plots created.
 
 ## Hook Document
 - Link to Document: https://docs.google.com/document/d/1GmsvIRSqqhp4ce9Q6sBaSj5Hig9wb_g2pFEXYYaSpXY/edit?usp=sharing
 
 ## Rubric
 - Link to Rubric: https://docs.google.com/document/d/1u9jtmI0qhVIF2E45JgMPDHbCnlXABrwEiZHp5QPYpuk/edit?usp=sharing
+
+## Articles
+- 
 
 ## SRC
 ### Installing/ Building our code
@@ -45,7 +48,6 @@
 | Figure | Takeaways | 
 | -------- | -------- |
 |  ![Figure 1](Figures/Tumor_Distribution.png) | This plot was used during the exploratory phase of the project. It provided a way to visualize the spread of the data across the three possible types of ultrasound images. From this plot we were able to see that benign had the most image data while normal has by far the least. |
-|  ![Figure 2](Figures/results.png) | This figure is a confusion matrix of our results of the classification model created for this project. As you can see, this model shows that we were able to accurately classify a breast cancer tumor 90% of the time based on an ultrasound image. Specifically, there were only two false cases for the malignant tumor classification, which is extremely important given the severity of that diagnosis. |
 
 
 ## References
