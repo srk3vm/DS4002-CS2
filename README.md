@@ -5,7 +5,7 @@
 
 **2. Rubric**
 
-**3. Various Materials**
+**3. Various Material Folders**
 - Articles:
   - This folder contains two articles that are included to provide context and information around the case study topic.
 - SRC:
